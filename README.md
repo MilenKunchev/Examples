@@ -1,2 +1,1 @@
-# Examples
-A page with diverse programming examples for various languages and frameworks.
+<h1 align="center">Examples</h1>
